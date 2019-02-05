@@ -1,4 +1,5 @@
 {
+    "filters": {},
     "rules": {
         "general-novel-style-ja": {
             // 各段落の先頭に許可する文字 (false: チェックしない)
@@ -30,6 +31,6 @@
             "max" : 3
         },
         "no-doubled-conjunctive-particle-ga": true,
-        "no-dropping-the-ra": true,
+        "no-dropping-the-ra": true
     }
 }
