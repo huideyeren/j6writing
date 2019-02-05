@@ -1,5 +1,9 @@
 {
     "editor.wrappingIndent": "none",
     "editor.wordWrap": "bounded",
-    "editor.rulers": [80]
+    "editor.rulers": [80],
+    // ここは各自で絶対パスを書き換える
+    "textlint.configPath": "/Users/yusuketakakura/J6Replay/.textlintrc",
+    "textlint.nodePath": "/Users/yusuketakakura/J6Replay/node_modules",
+    
 }
