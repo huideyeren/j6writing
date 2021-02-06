@@ -3,9 +3,7 @@
     "editor.wordWrap": "bounded",
     "editor.rulers": [80],
     // ここは各自で絶対パスを書き換える
-    "textlint.configPath": "/Users/yusuketakakura/J6writing/.textlintrc",
-    "textlint.nodePath": "/Users/yusuketakakura/J6writing/node_modules",
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 5000,
-    
+    "textlint.run": "onType",
 }
