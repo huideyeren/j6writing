@@ -1,3 +1,4 @@
 node_modules/
 replay
 replay/
+.DS_Store
